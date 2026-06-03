@@ -1,0 +1,6 @@
+{
+  "name": "Sun Path & Earth Orbit Simulator",
+  "description": "An interactive 3D WebGL simulator of the Earth's spin, its orbital path around the Sun, and the local sun coordinates and prayer times for any chosen global location.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
